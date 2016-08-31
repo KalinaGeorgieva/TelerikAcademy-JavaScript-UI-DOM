@@ -3,18 +3,6 @@
 function solve() {
 
     return function(selector) {
-        /*var template = ''; /* insert the template here as a string
-            example:
-            var template =
-              '<ul>' +
-                '{{#students}}' +
-                '<li>' +
-                  '{{name}}' +
-                '</li>' +
-                '{{/students}}' +
-              '</ul>';
-        */
-
         var template = '<div class="container">' +
             '<h1>Animals</h1>' +
             '<ul class="animals-list">' +
